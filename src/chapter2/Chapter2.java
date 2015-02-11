@@ -19,6 +19,7 @@ public class Chapter2 {
         System.out.println("   *\n  ***\n *****\n*******\n *****\n  ***\n   *");
         
         
+        
     }
     
 }
